@@ -8,7 +8,7 @@ Stocks can be characterized as [value stocks](https://www.investopedia.com/terms
 
 One division among foreign markets is important to understand. There are _developed markets_ outside the US, led in size by Japan, the UK, Canada, France, Switzerland, Germany, and Australia. Then there are _emerging markets_, led by China, Taiwan, India, Brazil, South Africa, Saudi Arabia, Russia, Thailand, and Mexico. South Korea is usually but not always grouped with developed markets. When some people say _international markets_, they mean developed markets, while others are referring to all foreign markets. If I am referring only to developed or emerging countries, I will specify, and otherwise _international_ refers to markets outside the US.
 
-Cap-weighted funds that invest in the total US or global market are simple, great options for many reasons.<sup id="fn1">[1](#f1)</sup> However, those are willing to add moderate complexity to their portfolios can improve their expected returns.
+Cap-weighted funds that invest in the total US or global market are simple, great options for many reasons.<sup id="fn1">[1](#f1)</sup> However, those willing to add moderate complexity to their portfolios can improve their expected returns.
 
 ## Moving beyond market cap weighting
 
