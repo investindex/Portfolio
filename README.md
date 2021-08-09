@@ -10,6 +10,8 @@ One division among foreign markets is important to understand. There are _develo
 
 Cap-weighted funds that invest in the total US or global market are simple, great options for many reasons.<sup id="fn1">[1](#f1)</sup> However, those willing to add moderate complexity to their portfolios can improve their expected returns.
 
+&nbsp;
+
 ## Moving beyond market cap weighting
 
 Here I will offer advice to US investors for practical implementation of the academic research presented in [this video](https://www.youtube.com/watch?v=jKWbW7Wgm0w&ab_channel=BenFelix). These findings indicate that while investing in a cap-weighted index fund is a successful approach, diversification in terms of risk factors and geography improves long-term returns as well as the reliability of returns. A number of risk factors have been discovered by researchers which explain the systematic differences in returns between diversified stock portfolios. Certain groups of stocks present risks which are somewhat independent from the total market, and deliberately taking these risks carries an expected reward. [Risk factors](https://www.youtube.com/watch?v=Val9CqkqmvM&ab_channel=TheRationalReminderPodcast) influence the returns of bonds as well, but those factors are more obvious. As we discussed [earlier](https://github.com/investindex/Risk#bonds-and-the-spectrum-of-risk), they are _term_ and _credit_. Longer-term bonds have higher expected returns than shorter-term bonds, and bonds with higher credit risk have higher expected returns than those with lower credit risk. So term and credit are risk factors for bonds; what are the risk factors for stocks?
