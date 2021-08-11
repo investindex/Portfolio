@@ -22,6 +22,8 @@ With regard to both domestic and international markets, we can improve long-run 
 
 An additional approach to indexing can be found in the Research Affiliates Fundamental Index ([RAFI](https://www.researchaffiliates.com/en_us/strategies/rafi.html)). RAFI indices include both value and growth stocks, but weighting of each stock is based on a combination of the company's fundamental metrics, as opposed to its market cap. The result is a value-tilted index, although there are important differences between typical value funds and RAFI funds. They are explained well by the founder of Research Affiliates in [this video](https://www.youtube.com/watch?v=00ZACmAdi7g&ab_channel=TheRationalReminderPodcast). For our purposes here, we will group RAFI funds with value funds.
 
+&nbsp;
+
 ## Implementation
 
 How can we apply these ideas to a real portfolio? We need to make several decisions about allocation, and precise numbers are always arbitrary to some degree. We can start with our distribution of domestic and foreign stocks. Given the great vigor and size of the US market, I have chosen to allocate 70% to domestic indices and 30% to international indices. An investor purely concerned with global market cap weighting would allocate [about](https://www.msci.com/acwi) [58%](https://www.ftserussell.com/products/indices/geisac) to the US, so others may reasonably allocate more to foreign indices. There are good reasons to avoid allocating 100% to the US market or any other country's market.<sup id="fn3">[3](#f3)</sup> Next, how can we invest in the abovementioned factors within the domestic and international markets? We will depart from the cap weighted index by overweighting subsets of the market with positive long-term premiums.
