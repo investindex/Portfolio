@@ -34,7 +34,7 @@ Given that small cap value stocks have the strongest premium, we should choose t
 
 This allocation style depends on using funds focused on a single factor. Multifactor funds, which combine several factors in one fund, are addressed in the [next section](https://github.com/investindex/Funds#multifactor-funds). The allocation is also highly factor-tilted, which means that returns have the potential to differ significantly from cap-weighted total market returns. Sometimes the differences will favor the cap-weighted market, but in the long run they are expected to favor a factor-tilted portfolio. Investors who are concerned with this so-called tracking error should include allocation to a total market or large cap fund.
 
-Most markets are not as easily defined as the S&P 500. The total US stock market, for example, has a number of indices which act as a specific definition and performance benchmark. Different index funds that track a given market often use different indices. It is possible for these distinctions to be consequential, as the first footnote illustrates, but their influence on future returns can be difficult to anticipate.
+Most markets are not as easily defined as the S&P 500. The total US stock market, for example, has a number of indices which act as a specific definition and performance benchmark. Different index funds that track a given market often use different indices. It is possible for these distinctions to be consequential, as the second footnote illustrates, but their influence on future returns can be difficult to anticipate.
 
 Which ETFs and mutual funds can be used to target these indices? My suggestions are organized in tables in the next section, and the webpage for each fund is hyperlinked.
 
