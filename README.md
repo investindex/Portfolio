@@ -32,9 +32,12 @@ Let's sing praises of diversification for a moment.
 
 Recall the section on rebalancing, where I focused on the importance of maintaining your intended allocation of stocks and bonds. We'll explore another way in which disciplined rebalancing helps you, in combination with diversification. Let's start with an [example](https://www.youtube.com/watch?v=RR7e1Y-HJxQ&t=315s&ab_channel=BenFelix): between January 1970 and June 2009, in Canadian dollars, the S&P 500 had an average annual return of 9.66%, a Canadian index returned 9.42%, and an international index excluding the US and Canada returned 9.28%. Superficially, you might think that this means an investor would've received the highest return by investing in the S&P 500 and ignoring the other two. But a periodically rebalanced portfolio with one-third allocated to each index returned 9.84%, a higher return than any of the funds with lower volatility than any of the funds!
 
-Diversification among stock funds and rebalancing can provide your portfolio with higher returns than any of its constituents. This is usually not the result, but the example illustrates the advantages of this approach. With a forward-looking perspective, the main benefit of diversification is that we don't know which parts of your portfolio will perform best at which times. So 
+Diversification among stock funds and rebalancing can provide your portfolio with higher returns than any of its constituents. This exact result does not usually occur, but the example illustrates the advantages of this approach. With a forward-looking perspective, the main benefit of diversification is that we don't know which parts of your portfolio will perform best at which times. So we take a fairly agnostic approach with regard to which sectors and countries will experience near-term growth. This is consistent with the assumption that markets are [efficient](https://www.youtube.com/watch?v=rbPVTqd468c&ab_channel=BenFelix) enough to make it very difficult to select stocks in advance that will outperform the market.
 
 From a defensive point of view, lack of diversification threatens your financial well-being. The financial advisor Larry Swedroe often tells the story of a retired couple he met in March 2003 on a book tour.<sup id="fn4">[4](#f4)</sup> Three years earlier they had been invested in a concentrated portfolio of growth stocks. They were chasing the extraordinary recent returns of tech stocks enabled by the internet, and when the tech bubble popped in 2000, they took it on the chin. Their retirement portfolio was reduced from $13 million to $3 million. These are the kind of real financial consequences to which you make yourself vulnerable if you do not diversify broadly across the market.
+
+-Explain how risk factor diversification reduces volatility despite potentially higher volatility of each fund
+-Maybe move section above to here
 
 &nbsp;
 
@@ -88,7 +91,7 @@ US quality funds fared nearly as well as the cap-weighted total market: [17.00%]
 
 &nbsp;
 
-<sup id="f4"> 4 </sup> See chapter 3 of Larry Swedroe's book, co-authored with Kevin Grogan, [_Your Complete Guide to a Successful and Secure Retirement_](https://libgen.is/search.php?req=Swedroe+Grogan+Your+Complete+Guide+to+a+Successful+and+Secure+Retirement&open=0&res=25&view=simple&phrase=1&column=def) [↩](#fn4)
+<sup id="f4"> 4 </sup> See chapter 3 of Larry Swedroe's book, co-authored with Kevin Grogan, [_Your Complete Guide to a Successful and Secure Retirement_](https://libgen.is/search.php?req=Swedroe+Grogan+Your+Complete+Guide+to+a+Successful+and+Secure+Retirement&open=0&res=25&view=simple&phrase=1&column=def). [↩](#fn4)
 
 &nbsp;
 
