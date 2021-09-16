@@ -91,7 +91,7 @@ US quality funds fared nearly as well as the cap-weighted total market: [17.00%]
 
 &nbsp;
 
-<sup id="f4"> 4 </sup> Imagine an initial investment of $10,000, invested in the various ways I described above. Over 39.5 years, a 9.28% average annual return would yield a final value of $333,000; a 9.42% return would yield $350,000; a 9.66% return would yield $382,000; and a 9.84% return would yield $407,000. For example, $10,000 × 1.0984^39.5 = $407,418. [↩](#fn4)
+<sup id="f4"> 4 </sup> Imagine an initial investment of $10,000, invested in the ways I described above. Over 39.5 years, a 9.28% average annual return would yield a final value of $333,000; a 9.42% return would yield $350,000; a 9.66% return would yield $382,000; and a 9.84% return would yield $407,000. For example, $10,000 × 1.0984^39.5 = $407,418. [↩](#fn4)
 
 &nbsp;
 
