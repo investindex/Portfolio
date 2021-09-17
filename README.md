@@ -40,7 +40,7 @@ Moving to risk factor diversification: some of the factor-based funds, like smal
 
 How does factor investing fare when stocks plummet? Because correlations are high across the market during major crashes, don't count on risk factor diversification to reduce losses in percentage terms. But your portfolio will probably recover more quickly than a cap-weighted index, and your returns in good years are expected to be larger and more reliable.
 
-See the [seventh footnote] for more on geographic diversification.
+See this section's [last footnote](https://github.com/investindex/Portfolio#f7) for more on geographic diversification.
 
 &nbsp;
 
