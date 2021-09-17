@@ -56,6 +56,8 @@ Most markets are not as easily defined as the S&P 500. The total US stock market
 
 Which ETFs and mutual funds can be used to target these indices? My suggestions are organized in tables in the next section, and the webpage for each fund is hyperlinked.
 
+&nbsp;
+
 [Click here for the next section — Fund proposals](https://github.com/investindex/Funds)
 
 &nbsp;
