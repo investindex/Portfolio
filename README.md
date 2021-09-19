@@ -96,7 +96,7 @@ US quality funds fared nearly as well as the cap-weighted total market: [17.00%]
 
 &nbsp;
 
-<sup id="f4"> 4 </sup> How good was 2000 for US value? We'll use [data](https://www.portfoliovisualizer.com/backtest-asset-class-allocation) from Vanguard's funds that were in operation at the time. Large cap growth returned -22.21% and the total US market returned -10.57%. But large cap value returned 6.09%, mid cap value returned 19.80%, and small cap value returned 21.88%. [↩](#fn4)
+<sup id="f4"> 4 </sup> How good was 2000 for US value? We'll use [data](https://www.portfoliovisualizer.com/backtest-asset-class-allocation) from Vanguard's mutual funds that were in operation at the time. Large cap growth (VIGRX) returned -22.21% and the total US market (VTSMX) returned -10.57%. But large cap value (VIVAX) returned 6.09% and small cap value (VISVX) returned 21.88%. [↩](#fn4)
 
 &nbsp;
 
