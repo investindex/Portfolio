@@ -1,6 +1,6 @@
 # Building a stock portfolio
 
-Which funds will produce the most long-term growth? Unsurprisingly, even the most informed investors and researchers do not completely agree. Before proceeding with my recommendation, let me be clear that by proposing a portfolio of multiple funds, I am not suggesting that a more straightforward approach is a bad idea. If daunting complexity might cause you to delay investing, feel free to simplify. Some ways of doing so are described [in the next section](https://github.com/investindex/Funds). Waiting to invest will [cost you a lot more](https://www.youtube.com/watch?v=4gn4F1VmTvM&ab_channel=ThePlainBagel) than not implementing someone’s idea of the perfect portfolio.
+Which funds will produce the most long-term growth? Unsurprisingly, even the most informed investors and researchers do not completely agree. Before proceeding with my recommendation, let me be clear that by proposing a portfolio of multiple funds, I am not suggesting that a more straightforward approach is a bad idea. If daunting complexity might cause you to delay investing, feel free to simplify. Some ways of doing so are described [in the next section](https://github.com/investindex/Fund/blob/main/README.md). Waiting to invest will [cost you a lot more](https://www.youtube.com/watch?v=4gn4F1VmTvM&ab_channel=ThePlainBagel) than not implementing someone’s idea of the perfect portfolio.
 
 We should start with background on portfolio characteristics. With regard to market cap, a company can be large cap (>$10B), mid cap ($2B to $10B), or small cap (<$2B). The total US market [distributes](https://www.morningstar.com/etfs/arcx/vti/portfolio) about 72% to large cap, 20% to mid cap, and 8% to small/micro cap. Of course there are many small cap companies, but the sum of their market value is a small fraction of the market value of all publicly listed US companies. A cap-weighted total US index fund closely mirrors this market cap distribution.
 
@@ -18,7 +18,7 @@ Here I will offer advice to US investors for practical implementation of the aca
 
 The first factor is simply the market factor: a cap-weighted stock market index tends to outperform the risk-free rate of return (the return on the lowest-risk assets like one-month US treasury bonds). A standard cap-weighted index fund has exposure to only the market factor. The second factor is [size](https://www.youtube.com/watch?v=uErHwq4M6pg&ab_channel=BenFelix): small cap stocks tend to outperform large cap stocks. The third factor is [value](https://www.youtube.com/watch?v=2MVSsVi1_e4&ab_channel=BenFelix): value stocks tend to [outperform](https://www.youtube.com/watch?v=kYO7xrHhqsY&ab_channel=BenFelix) growth stocks. The fourth factor is [profitability](https://www.youtube.com/watch?v=YsWgWrpzdAM&ab_channel=TheRationalReminderPodcast): stocks with robust profitability tend to outperform stocks with weak profitability. And the fifth factor is investment: stocks with conservative investment into growth of company assets tend to outperform those with aggressive investment. The stocks which tend to outperform, like value stocks, deliver a higher expected return because of their greater risk.
 
-For a longer explanation of what factors are at a beginner level, see [this podcast](https://www.youtube.com/watch?v=CJ6Mrrbvxzg&t=1468s&ab_channel=TheRationalReminderPodcast) in which Ben Felix explains factors to his mom. For a more advanced explanation, see [this footnote](https://github.com/investindex/Funds#f2) in the next section. It will help resolve questions caused by a superficial understanding of factors, such as: how could more profitable stocks be riskier?
+For a longer explanation of what factors are at a beginner level, see [this podcast](https://www.youtube.com/watch?v=CJ6Mrrbvxzg&t=1468s&ab_channel=TheRationalReminderPodcast) in which Ben Felix explains factors to his mom. For a more advanced explanation, see [this footnote](https://github.com/investindex/Fund/blob/main/README.md#f2) in the next section. It will help resolve questions caused by a superficial understanding of factors, such as: how could more profitable stocks be riskier?
 
 We've established that we can improve long-run stock performance relative to a cap-weighted index by targeting these factors: size,<sup id="fn2">[2](#f2)</sup> value, profitability, and investment. But while the premiums are positive in the long run, they are sometimes reversed on shorter time scales. Factor-tilted portfolios cannot provide constant outperformance, because their higher returns are the result of a different risk profile. That risk must entail underperformance during some periods, or it wouldn't actually be risk. 2020 was an especially poor year for value investing, not because returns were negative but because the returns of large cap growth stocks dwarfed those of value stocks.<sup id="fn3">[3](#f3)</sup> Stock market trends are very difficult to predict in the short term, and those who embrace _any_ investing approach need to understand that they will experience periods of underperformance relative to other approaches. Naturally, radical outperformance is also possible. For US value this occurred in 2000 after the tech bubble popped.<sup id="fn4">[4](#f4)</sup>
 
@@ -66,7 +66,7 @@ Which ETFs and mutual funds can be used to build a portfolio with these characte
 
 &nbsp;
 
-[Click here for the next section — Fund proposals](https://github.com/investindex/Funds)
+[Click here for the next section — Fund proposals](https://github.com/investindex/Fund/blob/main/README.md)
 
 &nbsp;
 
@@ -78,7 +78,7 @@ All sections:
 * [Your psychology](https://github.com/investindex/Psychology)
 * [Guidelines for financial planning](https://github.com/investindex/Guidelines)
 * [Building a stock portfolio](https://github.com/investindex/Portfolio)
-* [Fund proposals](https://github.com/investindex/Funds)
+* [Fund proposals](https://github.com/investindex/Fund/blob/main/README.md)
 * [Concerns for the small investor](https://github.com/investindex/Small)
 * [Concerns for the large investor](https://github.com/investindex/Large)
 * [Practical information for execution](https://github.com/investindex/Practical)
