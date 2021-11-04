@@ -111,7 +111,7 @@ The first paper linked above on the size factor is from authors at AQR Capital. 
 
 &nbsp;
 
-<sup id="f4"> 4 </sup> How good was 2000 for US value? We'll use [data](https://www.portfoliovisualizer.com/backtest-asset-class-allocation) from Vanguard's mutual funds that were in operation at the time. Large cap growth (VIGRX) returned -22.21% and the total US market (VTSMX) returned -10.57%. But large cap value (VIVAX) returned 6.09% and small cap value (VISVX) returned 21.88%. [↩](#fn4)
+<sup id="f4"> 4 </sup> How good was 2000 for US value? We'll use [data](https://www.portfoliovisualizer.com/backtest-asset-class-allocation?s=y&mode=1&timePeriod=4&startYear=2000&firstMonth=1&endYear=2000&lastMonth=12&calendarAligned=true&includeYTD=false&initialAmount=10000&annualOperation=0&annualAdjustment=0&inflationAdjusted=true&annualPercentage=0.0&frequency=4&rebalanceType=1&absoluteDeviation=5.0&relativeDeviation=25.0&leverageType=0&leverageRatio=0.0&debtAmount=0&debtInterest=0.0&maintenanceMargin=25.0&leveragedBenchmark=false&portfolioNames=false&portfolioName1=Portfolio+1&portfolioName2=Portfolio+2&portfolioName3=Portfolio+3&asset1=LargeCapGrowth&allocation1_1=100&asset2=TotalStockMarket&allocation2_2=100&asset3=SmallCapValue&allocation3_3=100) from Vanguard's mutual funds that were in operation at the time. Large cap growth (VIGRX) returned -22.21% and the total US market (VTSMX) returned -10.57%. But large cap value (VIVAX) returned 6.09% and small cap value (VISVX) returned 21.88%. [↩](#fn4)
 
 &nbsp;
 
