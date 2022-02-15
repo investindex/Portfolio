@@ -44,6 +44,12 @@ So diversification among stock funds and rebalancing can provide your portfolio 
 
 From a defensive point of view, lack of diversification threatens your financial well-being. The financial advisor Larry Swedroe often tells the story of a retired couple he met in March 2003 on a book tour.<sup id="fn7">[7](#f7)</sup> Three years earlier they had been invested in a concentrated portfolio of growth stocks. They were chasing the extraordinary recent returns of tech stocks enabled by the internet, and when the tech bubble burst in 2000, they took it on the chin. Their retirement portfolio was reduced from $13 million to $3 million. This is an extreme example, but not an anomaly. These are the kind of real financial consequences to which you make yourself vulnerable if you concentrate your portfolio in a small number of similar stocks and fail to diversify broadly across the market. See, for instance, how the stock prices of [Cisco](https://finance.yahoo.com/quote/CSCO) and [Qualcomm](https://finance.yahoo.com/quote/QCOM) behaved in 2000 and imagine buying shares as they approached their peaks.
 
+<p align="center">
+<img src="https://github.com/investindex/Portfolio/blob/main/Cisco%20Bubble.png" width="631" height="540"/>
+</p>
+
+&nbsp;
+
 #### Risk factor diversification
 
 Some of the factor funds, like small cap value, will exhibit higher volatility than the cap-weighted total market. But this doesn't imply that factor investing delivers a more volatile portfolio. In other words, although factor investing involves overweighting riskier stocks, it is not necessarily a riskier approach. To the contrary, investing in a variety of funds that are not perfectly correlated means that each risk factor acts as a somewhat independent source of returns, and those returns tend to deliver at different times. Losses or stagnation in one fund may be accompanied by gains in another.
