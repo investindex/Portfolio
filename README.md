@@ -134,7 +134,7 @@ The first paper linked above on the size factor is from authors at AQR Capital. 
 
 &nbsp;
 
-<sup id="f7"> 7 </sup> See chapter 3 of Larry Swedroe's book, co-authored with Kevin Grogan, [_Your Complete Guide to a Successful and Secure Retirement_](https://libgen.is/search.php?req=Swedroe+Grogan+Your+Complete+Guide+to+a+Successful+and+Secure+Retirement&open=0&res=25&view=simple&phrase=1&column=def). [↩](#fn7)
+<sup id="f7"> 7 </sup> See chapter 3 of Larry Swedroe's book, co-authored with Kevin Grogan, [_Your Complete Guide to a Successful and Secure Retirement_](https://libgen.rs/search.php?req=Swedroe+Grogan+Your+Complete+Guide+to+a+Successful+and+Secure+Retirement&open=0&res=25&view=simple&phrase=1&column=def). [↩](#fn7)
 
 &nbsp;
 
