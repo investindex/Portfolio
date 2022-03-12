@@ -60,7 +60,7 @@ A prominent [example](https://www.portfoliovisualizer.com/backtest-portfolio?s=y
 <img src="https://github.com/investindex/Portfolio/blob/main/Lost%20Decade.png" width="631" height="540"/>
 </p>
 
-Even when the movement of different risk factors is the same directionally, one fund may gain more or lose less than another. The smoother returns of a portfolio with multiple risk factors are thanks to the free lunch of diversification.
+Even when the movement of different risk factors or different countries is the same directionally, one market sector may gain more or lose less than another. The smoother returns of a global portfolio with multiple risk factors are thanks to the free lunch of diversification.
 
 How does factor investing fare when stocks plummet? Because correlations are high across the market during major crashes, don't count on risk factor diversification to reduce losses in percentage terms. As I explained in [this footnote](https://github.com/investindex/Portfolio#f2), overweighting value stocks can — but does not always — increase the drawdowns of your portfolio. But your portfolio will probably recover more quickly than a cap-weighted index, and your returns in good years are expected to be larger and more reliable.
 
