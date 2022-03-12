@@ -62,7 +62,7 @@ A prominent [example](https://www.portfoliovisualizer.com/backtest-portfolio?s=y
 
 Even when the movement of different risk factors or different countries is the same directionally, one market sector may gain more or lose less than another. The smoother returns of a global portfolio with multiple risk factors are thanks to the free lunch of diversification.
 
-How does factor investing fare when stocks plummet? Because correlations are high across the market during major crashes, don't count on risk factor diversification to reduce losses in percentage terms. As I explained in [this footnote](https://github.com/investindex/Portfolio#f2), overweighting value stocks can — but does not always — increase the drawdowns of your portfolio. But your portfolio will probably recover more quickly than a cap-weighted index, and your returns in good years are expected to be larger and more reliable.
+How does factor investing fare when stocks plummet? Because correlations are high across the market during major crashes, don't count on risk factor diversification to reduce losses in percentage terms. As I explained in [this footnote](https://github.com/investindex/Portfolio#f2), a portfolio that overweights value stocks will often — but not always — experience greater drawdowns than the cap-weighted market. However, that portfolio will probably recover more quickly than a cap-weighted index, and its returns in good years are expected to be larger and more reliable.
 
 See this section's [last footnote](https://github.com/investindex/Portfolio#f7) for more on geographic diversification.
 
