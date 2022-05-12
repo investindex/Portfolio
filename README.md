@@ -92,6 +92,7 @@ All sections:
 * [Introduction to index funds](https://github.com/investindex/Index)
 * [Thinking about risk](https://github.com/investindex/Risk)
 * [Your psychology](https://github.com/investindex/Psychology)
+* [Tax-advantaged accounts](https://github.com/investindex/TaxAdv)
 * [Guidelines for financial planning](https://github.com/investindex/Guidelines)
 * [Investing for retirement](https://github.com/investindex/Retirement)
 * [Building a stock portfolio](https://github.com/investindex/Portfolio)
