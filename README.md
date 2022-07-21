@@ -48,6 +48,12 @@ From a defensive point of view, lack of diversification threatens your financial
 <img src="https://github.com/investindex/Portfolio/blob/main/Cisco%20Bubble.png" width="631" height="540"/>
 </p>
 
+Another growth stock frenzy deflated recently in 2021 and especially 2022. Many well-known, formerly hot stocks greatly fell. Peak to trough of closing prices, the drawdowns have been: 49% for [Tesla](https://finance.yahoo.com/quote/TSLA), 76% for [Netflix](https://finance.yahoo.com/quote/NFLX), 56% for [Nvidia](https://finance.yahoo.com/quote/NVDA), 77% for [Paypal](https://finance.yahoo.com/quote/PYPL), 80% for [Block](https://finance.yahoo.com/quote/SQ) (formerly Square), 82% for [Shopify](https://finance.yahoo.com/quote/SHOP), 87% for [Coinbase](https://finance.yahoo.com/quote/COIN), Rivian, Snap (creator of Snapchat) by , Nvidia/AMD, 85% for [Zoom](https://finance.yahoo.com/quote/ZM), and 95% for [Peloton](https://finance.yahoo.com/quote/PTON).
+
+<!--
+Note to author: these drawdowns were originally calculated on July 20 2022. Updates are needed if new lows have been reached since that date.
+-->
+
 &nbsp;
 
 #### Risk factor diversification
