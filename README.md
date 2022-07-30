@@ -56,6 +56,7 @@ Another growth stock frenzy deflated recently in 2021 and 2022. Many well-known,
 
 <!--
 Note to author: these drawdowns were last checked on July 29 2022. Updates are needed if new lows have been reached since that date.
+Perhaps I could make another plot of the rise and fall of Snapchat, Netflix, Paypal, Zoom, or Peloton during the pandemic in particular.
 -->
 
 &nbsp;
