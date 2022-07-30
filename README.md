@@ -54,13 +54,13 @@ From a defensive point of view, lack of diversification threatens your financial
 
 Another growth stock frenzy deflated recently in 2021 and 2022. Many well-known, large cap stocks took major blows. The [total US market](https://finance.yahoo.com/quote/VTI) suffered a drawdown of 24% this year. Meanwhile, there were drawdowns of: 59% for [Meta](https://finance.yahoo.com/quote/META) (formerly Facebook), 49% for [Tesla](https://finance.yahoo.com/quote/TSLA), 76% for [Netflix](https://finance.yahoo.com/quote/NFLX), 56% for [Nvidia](https://finance.yahoo.com/quote/NVDA), 54% for [AMD](https://finance.yahoo.com/quote/AMD), 77% for [Paypal](https://finance.yahoo.com/quote/PYPL), 80% for [Block](https://finance.yahoo.com/quote/SQ) (formerly Square), 76% for [Moderna](https://finance.yahoo.com/quote/MRNA), 82% for [Shopify](https://finance.yahoo.com/quote/SHOP), 87% for [Coinbase](https://finance.yahoo.com/quote/COIN), 88% for [Rivian](https://finance.yahoo.com/quote/RIVN), 76% for [DoorDash](https://finance.yahoo.com/quote/DASH), 83% for [Palantir](https://finance.yahoo.com/quote/PLTR), 89% for [Snap](https://finance.yahoo.com/quote/SNAP) (formerly Snapchat), 82% for [Cloudflare](https://finance.yahoo.com/quote/NET), 85% for [Zoom](https://finance.yahoo.com/quote/ZM), and 95% for [Peloton](https://finance.yahoo.com/quote/PTON). For those who thought companies like these seemed like exciting investments, it has been a hard year.
 
-Take the stock performance of Snap, known for Snapchat, during the wild pandemic market swings:
+Take the stock performance of Snap, known for Snapchat, during the wild pandemic market:
 
 <p align="center">
 <img src="https://github.com/investindex/Portfolio/blob/main/Snap.png" width="631" height="540"/>
 </p>
 
-Individual stocks are hazardous to your wealth. Keep them within a small fraction of your portfolio, if you choose to partake at all.
+The bottom line: individual stocks are hazardous to your wealth. Keep them within a small fraction of your portfolio, if you choose to partake at all.
 
 <!--
 Note to author: these drawdowns were last checked on July 29 2022. Updates are needed if new lows have been reached since that date.
