@@ -58,6 +58,8 @@ Another growth stock frenzy deflated recently in 2021 and 2022. Many well-known,
 <img src="https://github.com/investindex/Portfolio/blob/main/Snap.png" width="631" height="540"/>
 </p>
 
+Investing significant amounts of money in hot stocks like these is hazardous to your wealth.
+
 <!--
 Note to author: these drawdowns were last checked on July 29 2022. Updates are needed if new lows have been reached since that date.
 -->
