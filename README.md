@@ -115,7 +115,7 @@ All sections:
 * [Guidelines for financial planning](https://github.com/investindex/Guidelines)
 * [Building a stock portfolio](https://github.com/investindex/Portfolio)
 * [Fund proposals](https://github.com/investindex/Fund/blob/main/README.md)
-* [Concerns for the small/large investor](https://github.com/investindex/Small)
+* [Advice](https://github.com/investindex/Advice)
 * [Practical information for execution](https://github.com/investindex/Practical)
 * [Taxes](https://github.com/investindex/Taxes)
 * [Vocabulary and further resources](https://github.com/investindex/Vocab)
