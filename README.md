@@ -77,7 +77,7 @@ A prominent [example](https://www.portfoliovisualizer.com/backtest-portfolio?s=y
 Below is the total return chart for [SPY](https://www.ssga.com/us/en/individual/etfs/funds/spdr-sp-500-etf-trust-spy), the first S&P 500 ETF and — fun fact — the security with the highest trading volume in the world. Two deep bear markets made the 2000s a bad time to invest in large cap US stocks.
 
 <p align="center">
-<img src="https://github.com/investindex/Portfolio/blob/main/Lost_Decade.png"/>
+<img src="https://github.com/investindex/Portfolio/blob/main/SPY%20Lost%20Decade.png"/>
 </p>
 
 Even when the movement of funds with varied exposure to different risk factors or different countries is the same directionally, one market subset may gain more or lose less than another. The smoother returns of a global portfolio with multiple risk factors are thanks to the free lunch of diversification.
