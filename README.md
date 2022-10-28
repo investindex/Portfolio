@@ -112,7 +112,7 @@ All sections:
 * [Tax-advantaged accounts](https://github.com/investindex/TaxAdv)
 * [Your psychology](https://github.com/investindex/Psychology)
 * [Investing for retirement](https://github.com/investindex/Retirement)
-* [Guidelines for financial planning](https://github.com/investindex/Guidelines)
+* [Guidelines for personal finance](https://github.com/investindex/Guidelines)
 * [Building a stock portfolio](https://github.com/investindex/Portfolio)
 * [Fund proposals](https://github.com/investindex/Fund/blob/main/README.md)
 * [Advice](https://github.com/investindex/Advice)
