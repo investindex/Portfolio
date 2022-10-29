@@ -63,7 +63,7 @@ Take the stock performance of Snap, known for Snapchat, during the wild pandemic
 The bottom line: individual stocks are hazardous to your wealth. Keep them within a small fraction of your portfolio, if you choose to partake at all.
 
 <!--
-Note to author: these drawdowns were last checked on Oct 15 2022. Updates are needed if new lows have been reached since that date.
+Note to author: these drawdowns were last checked on Oct 28 2022. Updates are needed if new lows have been reached since that date.
 -->
 
 &nbsp;
