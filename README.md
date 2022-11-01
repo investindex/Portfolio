@@ -57,7 +57,7 @@ Another growth stock frenzy deflated recently in 2021 and 2022. Many well-known,
 Take the stock performance of Snap, known for Snapchat, during the wild pandemic market:
 
 <p align="center">
-<img src="https://github.com/investindex/Portfolio/blob/main/SNAP.png"/>
+<img src="https://github.com/investindex/Portfolio/blob/main/Snapchat.png"/>
 </p>
 
 The bottom line: individual stocks are hazardous to your wealth. Keep them within a small fraction of your portfolio, if you choose to partake at all.
