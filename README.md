@@ -37,7 +37,7 @@ In rolling 10-year periods [from 1963 to 2020](https://www.pwlcapital.com/wp-con
 -->
 
 <p align="center">
-<img src="https://github.com/investindex/Portfolio/blob/main/Value%20Premium.png"/>
+<img src="https://github.com/investindex/Portfolio/blob/main/Value%20Factor.png"/>
 </p>
 
 One fascinating research result is illuminated by the value premium. A widespread assumption is that the positive returns of the cap-weighted stock market depend on the emergence of new, revolutionary companies. Presumably an index that never updated, and kept only old companies would fall further and further behind an index that represented the evolving broad market. Jeremy Siegel and Jeremy Schwartz [showed](https://github.com/investindex/Vocab#f1) that this is untrue with an intriguing question and finding. The question: what would the returns of the S&P 500 be if the index had never updated, keeping the same companies for decades? The answer: the original S&P 500 companies from 1957 delivered far better returns than the actual S&P 500 index! One explanation for this is familiar to those who understand the value premium. Siegel wrote: "Although the earnings and sales of many of the new firms grew faster than those of the older firms, the price that investors paid for these stocks was simply too high to generate good returns." The original S&P 500 was much more heavily allocated to value stocks, and had higher returns.
