@@ -42,7 +42,7 @@ Now is a good time to clarify that the existence of a small cap premium is far m
 
 &nbsp;
 
-The market factor is the return of the cap-weighted market minus the risk-free rate of return (the return of one-month US Treasury bills). This is the basic compensation an investor receives for accepting the risk of stocks instead of a guaranteed return. The average magnitude of the US market factor has been 6.4%. It has been positive in 78% of three-year periods, 86% of ten-year periods, and 100% of 20-year periods. Notice in the table below that the other factors — except size, as we discussed — are roughly as consistent over long periods as the market factor. If you believe that investing in stocks is worthwhile, you should probably consider exposing your portfolio to these premia.
+The market factor is the return of the cap-weighted market minus the risk-free rate of return (the return of one-month US Treasury bills). This is the basic compensation an investor receives for accepting the risk of stocks instead of a guaranteed return. The average magnitude of the US market factor has been 6.4%. It has been positive in 78% of three-year periods, 86% of ten-year periods, and 100% of 20-year periods. Notice in the table below that the other factors — except size, as we discussed — are roughly as consistent over long periods as the market factor. If you believe that investing in cap-weighted stocks is a worthwhile risk, you should consider exposing your portfolio to these premia as well.
 
 <p align="center">
   <bUS five-factor premia</b>
@@ -53,7 +53,7 @@ The market factor is the return of the cap-weighted market minus the risk-free r
 | Premium Magnitude | 6.4% | 3.0% | % | 2.6% | 3.2% |
 | 10 Year Consistency | 78% | 66% | % | 68% | 68% |
 | 20 Year Consistency | 86% | 85% | % | 86% | 95% |
-| 20 Year Consistency | iiiiiiiiii | iiiiiiiiii | iiiiiiiiii | iiiiiiiiii | iiiiiiiiii
+| 20 Year Consistency | iiiiiiiiiiiiiiiiiiiiiiiiiiiiii | iiiiiiiiiiiiiiiiiiiiiiiiiiiiii | iiiiiiiiiiiiiiiiiiiiiiiiiiiiii | iiiiiiiiiiiiiiiiiiiiiiiiiiiiii | iiiiiiiiiiiiiiiiiiiiiiiiiiiiii
 
 | | Market | Value | Size | Profitability | Investment |
 | :--: | :--: | :--: | :--: | :--: | :--: |
