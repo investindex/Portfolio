@@ -47,7 +47,7 @@ The market factor is the return of the cap-weighted market minus the risk-free r
 &nbsp;
 
 <p align="center">
-  <b>US five factor premia</b>
+  <b>US five-factor premia</b>
 </p>
 
 | | &ensp; &ensp; Market &ensp; &ensp; | &nbsp; &nbsp; &ensp; Value &nbsp; &nbsp; &ensp; | &emsp; &nbsp; &nbsp; Size &emsp; &nbsp; &nbsp; | &nbsp; Profitability &nbsp; | &nbsp; Investment &nbsp; |
