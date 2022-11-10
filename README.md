@@ -44,6 +44,18 @@ Now is a good time to clarify that the existence of a small cap premium is far m
 
 The market factor is the return of the cap-weighted market minus the risk-free rate of return (the return of one-month US Treasury bills). This is the basic compensation an investor receives for taking risk in stocks. The average magnitude of the US market factor has been 6.4%. It has been positive in 78% of three-year periods, 86% of ten-year periods, and 100% of 20-year periods. The US profitability factor has been 2.6% on average, and positive in 68% of three-year periods, 86% of ten-year periods, and 98% of 20-year periods. The US investment factor has been positive in 68% of three-year periods, 95% of ten-year periods, and 100% of 20-year periods. Its average magnitude has been 3.2%.
 
+<p align="center">
+  <bUS five-factor premia</b>
+</p>
+
+| | Market | Value | Size | Profitability | Investment
+| :--: | :--: | :--: | :--: | :--: | :--: |
+| Premium Magnitude | 6.4% | 3.0% | % | 2.6% | Investment
+| 3 Year Consistency | 78% | 66% | % | 68% | 68%
+| 10 Year Consistency | 86% | 85% | % | 86% | 95%
+| 20 Year Consistency | 100% | 97% | % | 98% | 100%
+
+
 <!--
 
 In rolling 10-year periods [from 1963 to 2020](https://www.pwlcapital.com/wp-content/uploads/2020/12/Five-Factor-Investing-with-ETFs.pdf#page=16), value stocks beat growth stocks 86% of the time, stocks with robust profitability beat stocks with weak profitability 86% of the time, and stocks with conservative investment beat those with aggressive investment 98% of the time. All three of these premiums were positive in 100% of rolling 20-year periods. The cap-weighted market beat risk-free returns in only 80% of 10-year periods, although we can rest assured that it also reached 100% consistency in 20-year periods. So the value, profitability, and investment premiums have been more consistent than stocks beating risk-free bonds! These are US data, but the factors are [persistent](https://www.pwlcapital.com/wp-content/uploads/2020/12/Five-Factor-Investing-with-ETFs.pdf#page=16) in other countries as well.
