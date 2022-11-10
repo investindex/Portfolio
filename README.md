@@ -53,7 +53,7 @@ The market factor is the return of the cap-weighted market minus the risk-free r
 | Premium Magnitude | 6.4% | 3.0% | % | 2.6% | 3.2% |
 | 10 Year Consistency | 78% | 66% | % | 68% | 68% |
 | 20 Year Consistency | 86% | 85% | % | 86% | 95% |
-| 20 Year Consistency | iiiiiiiiiiiiiiiiiiiiiiiiiii | iiiiiiiiiiiiiiiiiiiiiiiiiii | iiiiiiiiiiiiiiiiiiiiiiiiiii | iiiiiiiiiiiiiiiiiiiiiiiiiii | iiiiiiiiiiiiiiiiiiiiiiiiiii
+| 20 Year Consistency | iiiiiiiiiiiiiiiiiiiiiiiiiiii | iiiiiiiiiiiiiiiiiiiiiiiiiiii | iiiiiiiiiiiiiiiiiiiiiiiiiiii | iiiiiiiiiiiiiiiiiiiiiiiiiiii | iiiiiiiiiiiiiiiiiiiiiiiiiiii
 
 | | Market | Value | Size | Profitability | Investment |
 | :--: | :--: | :--: | :--: | :--: | :--: |
