@@ -42,7 +42,7 @@ Now is a good time to clarify that the existence of a small cap premium is far m
 
 &nbsp;
 
-The market factor is the return of the cap-weighted market minus the risk-free rate of return (the return of one-month US Treasury bills). This is the basic compensation an investor receives for accepting the risk of stocks instead of a guaranteed return. The average magnitude of the US market factor has been 6.4%. It has been positive in 78% of three-year periods, 86% of ten-year periods, and 100% of 20-year periods. Notice in the table below that the other factors — except size, as we discussed — are roughly as consistent over long periods as the market factor. If you believe that investing in cap-weighted stocks is a worthwhile risk, you should consider exposing your portfolio to these premia as well.
+The market factor is the return of the cap-weighted market minus the risk-free rate of return (the return of one-month US Treasury bills). This is the basic compensation an investor receives for accepting the risk of stocks instead of a guaranteed return. The average magnitude of the US market factor has been 6.4%, and it's been positive in 78% of three-year periods, 86% of ten-year periods, and 100% of 20-year periods. Notice in the table below that the other factors — except size, as we discussed — are roughly as consistent over long periods as the market factor. If you believe that investing in cap-weighted stocks is a worthwhile risk, you should consider exposing your portfolio to these premia as well.
 
 &nbsp;
 
