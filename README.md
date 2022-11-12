@@ -56,7 +56,7 @@ The market factor is the return of the cap-weighted market minus the risk-free r
 | 3 Year Consistency | 78% | 66% | 55% | 68% | 59% |
 | 10 Year Consistency | 86% | 85% | 74% | 86% | 80% |
 | 20 Year Consistency | 100% | 97% | 89% | 98% | 99.6% |
-| Data start date | 1926 | 1926 | 1926 | 1963 | 1963 |
+| Data start date | Jul 1926 | Jul 1926 | Jul 1926 | Jul 1963 | Jul 1963 |
 
 &nbsp;
 
