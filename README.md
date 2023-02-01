@@ -176,15 +176,15 @@ Value stocks are not _simply_ riskier than growth stocks, but exposed to differe
 <sup id="f3"> 3 </sup> The academic value factor is conventionally defined as a portfolio of the 30% of stocks with the highest book-to-price minus a portfolio of the 30% of stocks with the lowest book-to-price. This leads to the abbreviation "high minus low" or HML. In addition, each portfolio is split evenly between large cap and small cap stocks, so the academic value factor overweights small caps. In the plot of the US value factor, the factor is calculated for each lookback period with a one-month step. So the three-year lookback starts with Jul 1926 - Jun 1929, the second data point is Aug 1926 - Jul 1929, and so on. The first data points for the 20-year lookback are Jul 1926 - Jun 1946, Aug 1926 - Jul 1946, and so on. The data are taken from [Ken French's library](http://mba.tuck.dartmouth.edu/pages/faculty/ken.french/data_library.html). Ben Felix wrote an [excellent whitepaper](https://www.pwlcapital.com/wp-content/uploads/2020/12/Five-Factor-Investing-with-ETFs.pdf) about these data, but since it is more than two years out of date, I did my own analysis. See the table below for some numerical details. [↩](#fn3)
 
 <p align="center">
-  <b>US five-factor premia through Sep 2022</b>
+  <b>US five-factor premia through Dec 2022</b>
 </p>
 
 | | &ensp; &ensp; Market &ensp; &ensp; | &nbsp; &nbsp; &ensp; Value &nbsp; &nbsp; &ensp; | &emsp; &nbsp; &nbsp; Size &emsp; &nbsp; &nbsp; | &nbsp; Profitability &nbsp; | &nbsp; Investment &nbsp; |
 | :--: | :--: | :--: | :--: | :--: | :--: |
-| Premium Magnitude | 6.4% | 3.0% | 2.6% | 2.6% | 2.2% |
+| Premium Magnitude | 6.5% | 3.0% | 2.5% | 2.7% | 2.4% |
 | 3 Year Consistency | 78% | 66% | 55% | 68% | 59% |
-| 10 Year Consistency | 86% | 85% | 74% | 86% | 80% |
-| 20 Year Consistency | 100% | 97% | 89% | 98% | 99.6% |
+| 10 Year Consistency | 86% | 84% | 74% | 86% | 80% |
+| 20 Year Consistency | 100% | 96% | 89% | 98% | 99.6% |
 | Data start date | Jul 1926 | Jul 1926 | Jul 1926 | Jul 1963 | Jul 1963 |
 
 &nbsp;
