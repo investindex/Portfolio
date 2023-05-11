@@ -88,7 +88,7 @@ Take the stock performance of Snap, known for Snapchat, during the wild pandemic
 <img src="https://github.com/investindex/Portfolio/blob/main/SNAP.png"/>
 </p>
 
-The bottom line: individual stocks are hazardous to your wealth. If you feel the urge to dabble in trading stocks, isolate them within a small fraction of your portfolio.
+The bottom line: individual stocks are hazardous to your wealth. Most people should isolate them in a small fraction of their portfolio if they feel the urge to dabble in trading stocks.
 
 <!--
 Note to author: these drawdowns were last checked on Dec 30 2022. Updates are needed if new lows have been reached since that date.
