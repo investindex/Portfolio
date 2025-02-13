@@ -1,3 +1,5 @@
+I recently [started a Substack](https://rjwthree.substack.com/) to organize these ideas into more bite-size and easily readable posts. You can subscribe for free. I'll mainly be working there instead of maintaining and expanding this document.
+
 # Building a stock portfolio
 
 Which funds will produce the most long-term growth? Unsurprisingly, even the most informed investors and researchers do not completely agree. Before proceeding with my recommendations, let me be clear that by proposing a portfolio of multiple funds, I am not suggesting that a more straightforward approach is a bad idea. If daunting complexity might cause you to delay investing, feel free to simplify. Some ways of doing so are described [in the next section](https://github.com/investindex/Fund/blob/main/README.md), which proposes various allocations. Waiting to invest will [cost you a lot more](https://www.youtube.com/watch?v=4gn4F1VmTvM) than not implementing someone’s idea of the perfect portfolio.
